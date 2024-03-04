@@ -1,0 +1,7 @@
+echo "# nested-array_of_dictionry" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Abhijithnairk/nested-array_of_dictionry.git
+git push -u origin main
